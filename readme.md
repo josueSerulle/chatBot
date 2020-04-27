@@ -1,10 +1,11 @@
 # CHatBot La Maxima
 
-##Requerimiento 
+parcial para la materia de inteligencia artificial
+## Requerimiento 
 
 estaremos utilizan [anaconda] (https://www.anaconda.com/products/individual) y [python] (https://www.python.org/downloads/)
 
-##Instalacion
+## Instalacion
 
 creaos el entorno de anaconda, este proyecto utilza la version 3.6 de python
 ```sh

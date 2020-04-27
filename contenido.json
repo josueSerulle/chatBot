@@ -1,0 +1,24 @@
+{
+    "contenido":[
+        {
+            "tag":"saludo",
+            "patrone":["hola","saludo","klk wawawa","klk"],
+            "respuestas":["hola que tal!","como te va?","klk wawawa"]
+        },
+        {
+            "tag":"despedida",
+            "patrone":["adios","hasta la proxima","nos vemos"],
+            "respuestas":["cuidate","nos vemos pronto","te estare esperando"]
+        },
+        {
+            "tag":"frases",
+            "patrone":["la maxima","trucho","vamos pa donde chon"],
+            "respuestas":["dame la luz","tamo trucho","tenemos los metales"]
+        },
+        {
+            "tag":"MonkeyBlank",
+            "patrone":["Quien es Monkey Blank?"],
+            "respuestas":["San monkey bolank es la martida para del rap, nacido en los mina, tu ta clara de huevo!!!"]
+        }
+    ]
+}
